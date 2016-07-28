@@ -1,0 +1,61 @@
+---
+title: Pioneer Museum and Village Tours
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+url: https://pioneervirt.github.io
+theme:
+  title: Pioneer Museum and Village Tours
+  avatar: avatar.png
+  gravatar: 
+  description: Augmented touring service for the Florida Pioneer Museum and Village
+  header_text:
+  header_text_feature_image: 
+  footer_text: |
+    This tour is maintained by <a href="https://secure.clickfru.it/">CLICKFRU.IT</a>
+  rss: false
+  email_address: 
+  behance: 
+  bitbucket: 
+  dribbble: 
+  facebook: 
+  flickr: 
+  github:
+  google_plus: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  reddit: 
+  soundcloud: 
+  stack_exchange: 
+  steam: 
+  tumblr: 
+  twitter:
+  wordpress: 
+  youtube: 
+  google_analytics: UA-81488341-1
+  disqus_shortname: 
+  katex: true
+  str_follow_on: Follow on
+  str_rss_follow: Follow RSS feed
+  str_email: Email
+  str_next: Next
+  str_prev: Prev
+  str_continue_reading: Continue reading
+  google_fonts: Source+Sans+Pro:400,700,700italic,400italic
+  post_navigation: false
+paginate: 5
+paginate_path: blog/page:num
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems:
+- jekyll-paginate
