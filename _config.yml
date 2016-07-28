@@ -26,7 +26,7 @@ theme:
   dribbble: 
   facebook: 
   flickr: 
-  github: rohanchandra/type-theme
+  github:
   google_plus: 
   instagram: 
   linkedin: 
@@ -36,10 +36,10 @@ theme:
   stack_exchange: 
   steam: 
   tumblr: 
-  twitter: twitter
+  twitter:
   wordpress: 
   youtube: 
-  google_analytics: 
+  google_analytics: UA-81488341-1
   disqus_shortname: 
   katex: true
   str_follow_on: Follow on
