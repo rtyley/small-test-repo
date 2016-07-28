@@ -15,9 +15,7 @@ theme:
   avatar: avatar.png
   gravatar: 
   description: Augmented touring service for the Florida Pioneer Museum and Village
-  header_text: |
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text:
   header_text_feature_image: 
   footer_text: |
     Powered by Theo Burks of CLICKFRU.IT
