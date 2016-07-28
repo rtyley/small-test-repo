@@ -18,7 +18,7 @@ theme:
   header_text:
   header_text_feature_image: 
   footer_text: |
-    Powered by Theo Burks of CLICKFRU.IT
+    This tour is maintained by <a href="https://secure.clickfru.it/">CLICKFRU.IT</a>
   rss: false
   email_address: 
   behance: 
