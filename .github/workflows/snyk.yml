@@ -1,0 +1,6 @@
+name: Example
+on: workflow_dispatch
+
+jobs:
+  example:
+    run: echo "Hello"
